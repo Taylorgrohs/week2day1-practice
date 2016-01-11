@@ -1,0 +1,17 @@
+.section2, .section3, .section4{
+  display: none;
+}
+
+.showp, .showp4 {
+  display: none;
+}
+
+.clickable1, .clickable2, .clickable2b, #clickable1, #clickable4, .clickable4 {
+  color: blue;
+
+}
+
+.clickable1, .clickable2, .clickable2b:hover, #clickable1, #clickable4, .clickable4{
+  cursor: pointer;
+  text-decoration: underline;
+}

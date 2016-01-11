@@ -1,0 +1,12 @@
+.showing {
+  display: none;
+}
+
+#clickable, #clickable2 {
+  color: lightblue;
+
+}
+#clickable:hover, #clickable2:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
