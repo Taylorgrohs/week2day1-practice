@@ -17,4 +17,5 @@ $(document).ready(function() {
   $("#clickable4").click(function(){
     $(".showp4").toggle();
   });
+  $("button").addClass("animated shake");
 });
